@@ -3,7 +3,7 @@
 2.Using **MECE** principle for the cause of the problem.
 3.**Value driver tree** for business key approach.
 
-# Data source:
+# Data Source:
 ## Data Preprocessing:
 1.Fixing `missing `values
 2.Removal of `outliers`.
