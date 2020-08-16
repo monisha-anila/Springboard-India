@@ -1,28 +1,14 @@
-## Data Analytics Overview 
+# Data Analytics Overview 
 Capstone projects of data analytics course of Springboard-India.
 
-### Hypothesis:
- - Defining a problem statement using **SMART** approach.
- - Using **MECE** principle for the cause of the problem.
- - **Value driver tree** for business key approach.
+## Gap minder
+- World Health Organization(WHO) spends `$40B for Cancer` and `$90B for AIDS` treatment to sustain <b>humanity</b>. 
+- `Cancer` count <b>increasing tremendously</b> all over the world while `AIDS` starting to increase all over the world through <b>blood transfusion</b>.
+- [`Analysis`](https://github.com/monisha-anila/Springboard-India/edit/master/Capstone%201/Problem.md)
 
-## Data Source:
-### Data Preprocessing:
-- Fixing `missing `values
-- Removal of `outliers`.
+## Retail Store
+- ABC start up became the leading SME in London for online retail industry after seeing  <b>€ 448000 during 2017</b> and it has been voted as `“choice for customers”`.
+- Due to unknown product issues and delivery speeds the <b>customer base has been decreased tremendously</b> during 2018.
+- To avoid these disadvantages the company held urgent meeting to solve both `product and delivery issues` across their stores. 
+- [`Analysis`](https://github.com/monisha-anila/Springboard-India/edit/master/Capstone%202/Retail%20Analytics.md)
 
-## Exploratory Data Analysis:
-### Statistics: 
-- Desciptive statistics
-- Inferential statistics
-
-## Insights:
-### Finance:
-- Revenue, COGS, OpEx, EBIT, Cost-To-Produce, Equity, Balance sheets, Income statement driven insights.
-### Economics:
-- Supply, Demand, Marginal Cost, Marginal Profit. 
-
-## Presentation:
-- Executive presentation
-- Technical presentation
-- Non Techical presentation
