@@ -40,6 +40,6 @@
 
 ### Awesome tips
 - You can view Jupyter notebook data within seconds by pasting Github link [here](https://nbviewer.jupyter.org/). 
-- `pd.factorise` is used in place of `get_dummy` makes easier data encoding.
--`pd.qcut` makes bins with quantile distribution
+- `pd.factorise` is used in place of `get_dummy` which makes easier data encoding.
+- `pd.qcut` makes bins with quantile distribution
 - Use `Pandas profiling` to get data overview within minutes.
