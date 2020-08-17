@@ -16,7 +16,7 @@
 - Statistics- [`Python`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Statistics.ipynb) and [`Tableau`](https://public.tableau.com/profile/monisha.anila#!/vizhome/RetailAnalytics_15972219055200/Final)
 - Customer strategy – [`Out Of Stock analysis`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Demand%20Forecast.ipynb)
 - Market strategy – [`Optimised Price for products`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Optimised%20Price.ipynb)
-- Product divestment – [`Customer segment`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Customer%20Segmentation.ipynb) , [`Recommendation system`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Market%20Basket%20Analysis.ipynb) and [`Demand Forecast`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Demand%20Forecast.ipynb)
+- Product divestment – [`Customer segmentation`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Customer%20Segmentation.ipynb) , [`Recommendation system`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Market%20Basket%20Analysis.ipynb) and [`Demand Forecast`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Demand%20Forecast.ipynb)
 - <b> Note: Light GBM is used for both out of stock analysis and demand forecast </b>
 
 ## Constraints in solution 
