@@ -32,6 +32,11 @@
 1. [Original data](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Data.csv)
 2. [Segmented data](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Segmentdata.csv)
 
+## Presentations
+1.[`Executive`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Capstone%202%20Executive%20%5BMonisha%20Anila%5D.pdf)
+2.[`Technical`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Capstone%202%20Technical%20%5BMonisha%20Anila%5D.pdf)
+3.[`Non Technical`](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Capstone%202%20Non%20Technical%20%5BMonisha%20Anila%5D.pdf)
+
 ## Issue Tree 
 - <b>MECE principle </b> A brief documented [Issue Tree](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Capstone%202%20IT%5BMonisha%20Anila%5D.pdf)
 1. `Customers are leaving`
