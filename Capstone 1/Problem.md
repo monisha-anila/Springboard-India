@@ -2,7 +2,7 @@
 
 ## Problem Statement 
 - What opportunities exist for <b>WHO health experts</b> to reduce `cancer patients to 0%` by the end of 2012 to spend WHO `annual budget of 25% `through <b>increasing organ surgery or starting radiotherapy trials<b>?  
-- A brief documented [Probelm Statement](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%201/Capstone%20Problem%20Statement%20%5BMonisha%20Anila%5D.pdf)
+- A brief documented [Problem Statement](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%201/Capstone%20Problem%20Statement%20%5BMonisha%20Anila%5D.pdf)
 
 ## Context
 - World Health Organization(WHO) spends `$40B for Cancer` and `$90B for AIDS` treatment to sustain <b>humanity</b>. 
