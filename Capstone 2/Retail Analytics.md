@@ -2,7 +2,7 @@
 
 ## Problem Statement 
 - What opportunities exists for <b>ABC(SME)</b> start up after seeing `revenue fallen by 25%` during 1st half of 2018 compared to 2017 data to bring <b>revenue losses by 0% </b> at the end of 2018 through `new product and delivery strategy` or `closing stores at low revenue`? 
-- A brief documented [Probelm Statement](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Capstone%202%20PS%5BMonisha%20Anila%5D.pdf)
+- A brief documented [Problem Statement](https://github.com/monisha-anila/Springboard-India/blob/master/Capstone%202/Capstone%202%20PS%5BMonisha%20Anila%5D.pdf)
 
 ## Context
 - ABC start up became the leading SME in London for online retail industry after seeing  <b>€ 448000 during 2017</b> and it has been voted as `“choice for customers”`.
